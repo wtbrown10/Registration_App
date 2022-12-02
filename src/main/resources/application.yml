@@ -1,0 +1,7 @@
+spring:
+  datasource:
+    password:
+    url: jbdc:postgresql://localhost:5433/registration
+    username:
+  jpa:
+    hibernate:
